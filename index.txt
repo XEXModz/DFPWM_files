@@ -1,4 +1,4 @@
 {
-"V YoungBoy",
-"V YoungBoy2"
+"YoungBoy",
+"YoungBoy2"
 }
