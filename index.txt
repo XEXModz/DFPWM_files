@@ -8,5 +8,6 @@
 "V Red Sun Sky",
 "V YB Nevada",
 "V Earth, Wind & Fire September",
-"V Ballin"
+"V Ballin",
+"V YB outstide"
 }
