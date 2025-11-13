@@ -1,5 +1,4 @@
 {
-"V YoungBoy",
 "V YoungBoy2",
 "V Gangsta Rap",
 "V Indiana Jones",
