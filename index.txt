@@ -28,5 +28,6 @@
 "V Earth Wind & Fire September",
 "V YB No Smoke",
 "V g3oxem GigaChad",
-"V The Way Life Goes"
+"V The Way Life Goes",
+"V ZEZE"
 }
