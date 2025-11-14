@@ -18,5 +18,8 @@
 "V Shoreline Mafia - Nun Major",
 "V Flic Da Bic",
 "V YG Who Do You Love",
-"V Love Me"
+"V Love Me",
+"V Shot Callin",
+"V Hate Bein' Sober",
+"V From The D To The A"
 }
