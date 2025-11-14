@@ -11,5 +11,5 @@
 "V YB outstide",
 "V Gangsta's Paradise",
 "V Pooh Shiesty - 7.62 God",
-"V Young Thug - Ninja"
+"V Ninja"
 }
