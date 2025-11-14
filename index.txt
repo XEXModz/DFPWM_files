@@ -10,5 +10,8 @@
 "V Ballin",
 "V YB outstide",
 "V Gangsta's Paradise",
-"V Pooh Shiesty - 7.62 God"
+"V Pooh Shiesty - 7.62 God",
+"V $UICIDEBOY$ - ANTARCTICA",
+"V $uicideboy$ Empirically",
+"V $uicideBoy$ To Those"
 }
