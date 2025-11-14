@@ -21,5 +21,6 @@
 "V Love Me",
 "V Shot Callin",
 "V Hate Bein' Sober",
-"V From The D To The A"
+"V From The D To The A",
+"V Trap Queen"
 }
