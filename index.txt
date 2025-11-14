@@ -13,5 +13,7 @@
 "V Pooh Shiesty - 7.62 God",
 "V $UICIDEBOY$ - ANTARCTICA",
 "V $uicideboy$ Empirically",
-"V $uicideBoy$ To Those"
+"V $uicideBoy$ To Those",
+"V Shoreline Mafia - Whuss Da Deal",
+"V Shoreline Mafia - Nun Major"
 }
