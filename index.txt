@@ -23,5 +23,6 @@
 "V Hate Bein' Sober",
 "V From The D To The A",
 "V Trap Queen",
-"V Shoreline Mafia - Pressure"
+"V Shoreline Mafia - Pressure",
+"V Shoreline Mafia - Molly Water"
 }
