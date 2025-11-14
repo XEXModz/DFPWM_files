@@ -25,5 +25,5 @@
 "V Trap Queen",
 "V Shoreline Mafia - Pressure",
 "V Shoreline Mafia - Molly Water",
-"V Earth, Wind & Fire September"
+"V Earth Wind & Fire September"
 }
