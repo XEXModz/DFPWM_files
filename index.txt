@@ -29,5 +29,6 @@
 "V YB No Smoke",
 "V g3oxem GigaChad",
 "V The Way Life Goes",
-"V ZEZE"
+"V ZEZE",
+"V 679"
 }
