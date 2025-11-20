@@ -31,6 +31,5 @@
 "V The Way Life Goes",
 "V ZEZE",
 "V 679",
-"V Cemetery Gates",
 "V Maxiu Neck Hurts"
 }
